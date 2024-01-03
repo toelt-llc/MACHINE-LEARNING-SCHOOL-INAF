@@ -1,7 +1,0 @@
-black
-faker
-jupyter
-matplotlib
-numpy
-pandas
-sympy

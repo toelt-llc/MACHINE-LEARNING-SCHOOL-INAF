@@ -10,4 +10,13 @@ The best way to use it, is to have a python distribution installed (for example 
 
 ## Copyright and contact
 
-(C) 2024 Umberto Michelucci. For any questions or contact please contact [umberto.michelucci@toelt.ai](mailto:umberto.michelucci@toelt.ai).
+The school have been organised by 
+
+- Susanna Bisogni (susanna.bisogni@inaf.it)
+- Adriana Gargiulo
+- Marco Scodeggio
+- Marco Fumana (marco.fumana@inaf.it)
+
+A special thanks goes also to Bianca Garilli e Andrea del Luca. Without their support this would not have been possible.
+
+All material is (C) 2024 Umberto Michelucci. For any questions or contact please contact [umberto.michelucci@toelt.ai](mailto:umberto.michelucci@toelt.ai).

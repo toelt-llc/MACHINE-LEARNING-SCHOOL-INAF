@@ -13,8 +13,8 @@ The best way to use it, is to have a python distribution installed (for example 
 The school have been organised by 
 
 - Susanna Bisogni (susanna.bisogni@inaf.it)
-- Adriana Gargiulo
-- Marco Scodeggio
+- Adriana Gargiulo (adriana.gargiulo@inaf.it)
+- Marco Scodeggio (marco.scodeggio@inaf.it)
 - Marco Fumana (marco.fumana@inaf.it)
 
 A special thanks goes also to Bianca Garilli e Andrea del Luca. Without their support this would not have been possible.
